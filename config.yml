@@ -1,5 +1,17 @@
 baseURL: "https://melhalees.com/"
 languageCode: en-us
-title: melhalees' blog
+title: Mohamed Elhalees
 theme: hugo-theme-stack
 
+# Path: themes\hugo-theme-stack\config.yaml
+
+params:
+    favicon: img/favicon.png
+    sidebar:
+        compact: true
+        emoji: "🏡"
+        subtitle: "Software Engineer"
+        avatar:
+            enabled: true
+            local: true
+            src: img/avatar.jpg
