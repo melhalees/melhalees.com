@@ -1,7 +1,5 @@
 baseURL: "https://melhalees.github.io/melhalees.com/"
 languageCode: en-us
 title: melhalees' blog
-module:
-  imports:
-    - path: github.com/CaiJimmy/hugo-theme-stack/v3
+theme: hugo-theme-stack
 
