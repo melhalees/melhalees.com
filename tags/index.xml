@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on melhalees&#39; blog</title>
-        <link>https://melhalees.github.io/melhalees.com/tags/</link>
+        <link>https://melhalees.com/tags/</link>
         <description>Recent content in Tags on melhalees&#39; blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://melhalees.github.io/melhalees.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://melhalees.com/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
