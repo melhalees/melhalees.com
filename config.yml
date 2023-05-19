@@ -2,16 +2,144 @@ baseURL: "https://melhalees.com/"
 languageCode: en-us
 title: Mohamed Elhalees
 theme: hugo-theme-stack
+paginate: 5
 
-# Path: themes\hugo-theme-stack\config.yaml
-
-params:
-    favicon: img/favicon.png
-    sidebar:
-        compact: true
-        emoji: "🏡"
+languages:
+  en:
+    languageName: English
+    title: Mohamed Elhalees
+    # TODO: Add description
+    description: Example description
+    weight: 1
+    params:
+      sidebar:
         subtitle: "Software Engineer"
         avatar:
-            enabled: true
-            local: true
-            src: img/avatar.jpg
+          enabled: true
+          local: true
+          src: img/avatar.png
+  ar:
+    languageName: عربي
+    languagedirection: rtl
+    title: محمد الهليس
+    # TODO: Add description
+    description: وصف تجريبي
+    weight: 2
+    params:
+      sidebar:
+        subtitle: "مهندس برمجيات"
+        avatar:
+          enabled: true
+          local: true
+          src: img/avatar.png
+
+# GA Tracking ID
+googleAnalytics:
+
+DefaultContentLanguage: en
+
+permalinks:
+  post: /p/:slug/
+  page: /:slug/
+
+params:
+    mainSections:
+      - posts
+    featuredImageField: image
+    rssFullContent: true
+    favicon: /favicon.ico
+    footer:
+      since: 2023
+      dateFormat:
+        published: Jan 19, 2023
+        lastUpdated: Jan 19, 2023 15:04 GMT+3
+    article:
+      math: true
+      toc: true
+      readingTime: true
+      license:
+        enabled: true
+        default: Licensed under CC BY-NC-SA 4.0
+    widgets:
+      homepage:
+        - type: search
+        - type: archives
+          params:
+            limit: 5
+        - type: categories
+          params:
+            limit: 10
+        - type: tag-cloud
+          params:
+            limit: 10
+      page:
+        - type: toc
+    opengraph:
+      twitter:
+        site: MohamedElhalees
+        # Available values: summary, summary_large_image
+        card: summary_large_image
+    defaultImage:
+      opengraph:
+        enabled: false
+        local: false
+        # TODO: Add default image
+        src: https://via.placeholder.com/800x400?text=Default+OpenGraph+Image
+    colorScheme:
+      # Display toggle
+      toggle: true
+
+      # Available values: auto, light, dark
+      default: auto
+    imageProcessing:
+      cover:
+        enabled: true
+      content:
+        enabled: true
+
+menu:
+  main: []
+  social:
+    - identifier: linkedin
+      name: LinkedIn
+      url: https://linkedin.com/in/melhalees
+      weight: 1
+      params:
+        icon: linkedin
+        newTab: true
+    - identifier: github
+      name: GitHub
+      url: https://github.com/melhalees
+      weight: 2
+      params:
+        icon: github
+        newTab: true
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+
+    - name: categories
+      weight: 200
+
+markup:
+  goldmark:
+    renderer:
+      ## Set to true if you have HTML content inside Markdown
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
