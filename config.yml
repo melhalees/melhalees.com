@@ -13,7 +13,7 @@ languages:
     weight: 1
     params:
       sidebar:
-        compact: true
+        compact: false
         subtitle: "Software Engineer"
         avatar:
           enabled: true
@@ -28,7 +28,7 @@ languages:
     weight: 2
     params:
       sidebar:
-        compact: true
+        compact: false
         subtitle: "مهندس برمجيات"
         avatar:
           enabled: true
