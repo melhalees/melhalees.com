@@ -5,6 +5,50 @@
         <link>https://melhalees.com/</link>
         <description>Recent content on Mohamed Elhalees</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://melhalees.com/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://melhalees.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://melhalees.com/about/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/about/</guid>
+        <description>&lt;p&gt;This is the about page&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hello World</title>
+        <link>https://melhalees.com/p/hello-world/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/p/hello-world/</guid>
+        <description>&lt;img src="https://melhalees.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to our first post.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://melhalees.com/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://melhalees.com/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/links/</guid>
+        <description>&lt;p&gt;This page is just an example for now.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://melhalees.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/search/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

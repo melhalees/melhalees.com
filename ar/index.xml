@@ -5,6 +5,50 @@
         <link>https://melhalees.com/ar/</link>
         <description>Recent content on محمد الهليس</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://melhalees.com/ar/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://melhalees.com/ar/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>أهلا بالعالم</title>
+        <link>https://melhalees.com/ar/p/hello-world/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/p/hello-world/</guid>
+        <description>&lt;img src="https://melhalees.com/ar/p/hello-world/cover.jpg" alt="Featured image of post أهلا بالعالم" /&gt;&lt;p&gt;أهلا بكم في أول مقالة لنا.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>الأرشيف</title>
+        <link>https://melhalees.com/ar/archives/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>نبذه عني</title>
+        <link>https://melhalees.com/ar/%D9%86%D8%A8%D8%B0%D9%87-%D8%B9%D9%86%D9%8A/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/%D9%86%D8%A8%D8%B0%D9%87-%D8%B9%D9%86%D9%8A/</guid>
+        <description>&lt;p&gt;هذه الصفحة تحتوي على نبذه عني&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>أهم الروابط</title>
+        <link>https://melhalees.com/ar/%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7/</guid>
+        <description>&lt;p&gt;هذه الصفحة مجرد مثال الآن&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>صفحة البحث</title>
+        <link>https://melhalees.com/ar/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/search/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

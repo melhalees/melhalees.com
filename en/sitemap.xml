@@ -2,19 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://melhalees.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://melhalees.com/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://melhalees.com/categories/"
-                />
-  </url><url>
     <loc>https://melhalees.com/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -26,7 +15,99 @@
                 href="https://melhalees.com/"
                 />
   </url><url>
+    <loc>https://melhalees.com/about/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/%D9%86%D8%A8%D8%B0%D9%87-%D8%B9%D9%86%D9%8A/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/about/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/categories/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/categories/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/categories/example-category/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/categories/example-category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/categories/example-category/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/tags/example-tag/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/tags/example-tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/tags/example-tag/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/p/hello-world/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/p/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/p/hello-world/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/page/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/page/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/post/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/post/"
+                />
+  </url><url>
     <loc>https://melhalees.com/tags/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -36,6 +117,42 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://melhalees.com/tags/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/archives/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/links/"
+                />
+  </url><url>
+    <loc>https://melhalees.com/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://melhalees.com/ar/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://melhalees.com/search/"
                 />
   </url>
 </urlset>

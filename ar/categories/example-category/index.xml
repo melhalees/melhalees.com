@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>تصنيف تجريبي on محمد الهليس</title>
+        <link>https://melhalees.com/ar/categories/example-category/</link>
+        <description>Recent content in تصنيف تجريبي on محمد الهليس</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://melhalees.com/ar/categories/example-category/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>أهلا بالعالم</title>
+        <link>https://melhalees.com/ar/p/hello-world/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/p/hello-world/</guid>
+        <description>&lt;img src="https://melhalees.com/ar/p/hello-world/cover.jpg" alt="Featured image of post أهلا بالعالم" /&gt;&lt;p&gt;أهلا بكم في أول مقالة لنا.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

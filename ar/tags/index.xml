@@ -5,6 +5,15 @@
         <link>https://melhalees.com/ar/tags/</link>
         <description>Recent content in Tags on محمد الهليس</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://melhalees.com/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://melhalees.com/ar/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>تاج تجريبي</title>
+        <link>https://melhalees.com/ar/tags/example-tag/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://melhalees.com/ar/tags/example-tag/</guid>
+        <description>&lt;img src="https://melhalees.com/ar/tags/example-tag/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post تاج تجريبي" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>
